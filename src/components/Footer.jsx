@@ -9,8 +9,10 @@ const Footer = () => {
      border-dark font-medium text-lg"
     >
       <Layout className="py-8 flex items-center justify-between">
-        <span>{new Date().getFullYear()}&copy; All Rights Reserved.</span>
-        <Link href="/">Code with Vince Ariola</Link>
+        <span>{new Date().getFullYear()} &copy; All Rights Reserved.</span>
+        <Link href="/" className="underline underline-offset-2">
+          Code by Vince Ariola
+        </Link>
       </Layout>
     </footer>
   );
