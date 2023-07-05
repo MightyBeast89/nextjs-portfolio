@@ -53,7 +53,27 @@ const about = () => {
                 About me
               </h2>
               <p className="my-4 font-medium">
-                Hi, I am Venzon Ariola, I have recently graduated
+                Hi, I am Venzon Ariola, a Software Engineering graduate with a
+                strong focus on problem-solving and a commitment to delivering
+                high-quality application. Proficient in multiple programming
+                languages and frameworks. My educational background in Diploma
+                in Software Engineering Technician from Centennial College,
+                where I completed coursework in Web Application Development,
+                Object-Oriented Programming, Database Design, Software QA and
+                Testing, and IT Project Management. During my academic journey,
+                I successfully completed two notable projects. In the "Animal
+                Shelter Matching Web Application," I developed a user-friendly
+                platform utilizing React, Node.js, and MongoDB to match shelter
+                pets with potential adopters based on their preferences and pet
+                characteristics. My leadership role in "Single Tournament
+                Bracketing" involved guiding a team in creating a web
+                application for managing single-elimination tournaments using
+                Node.js, Express, and MongoDB. My technical expertise, coupled
+                with my customer service background, positions me as a dedicated
+                and qualified candidate ready to excel as an entry-level
+                Software Developer. I am eager to contribute my skills and
+                enthusiasm to projects that make a positive impact within a
+                forward-thinking organization.
               </p>
             </div>
 
