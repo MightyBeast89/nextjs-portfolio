@@ -110,7 +110,7 @@ const Navbar = () => {
             <GithubIcon />
           </motion.a>
           <motion.a
-            href="/"
+            href="https://www.linkedin.com/in/venzonariola/"
             target={"_blank"}
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
@@ -119,7 +119,7 @@ const Navbar = () => {
             <LinkedInIcon />
           </motion.a>
           <motion.a
-            href="/"
+            href="https://www.facebook.com/ariolavince"
             target={"_blank"}
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
