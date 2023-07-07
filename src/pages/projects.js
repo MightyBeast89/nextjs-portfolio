@@ -6,6 +6,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { GithubIcon } from "@/components/Icons";
 import project1 from "../../public/images/projects/project-1.jpeg";
+import project2 from "../../public/images/projects/project-2.jpg";
+import project3 from "../../public/images/projects/project-3.jpg";
 import { motion } from "framer-motion";
 import TransitionEffect from "@/components/TransitionEffect";
 
@@ -152,7 +154,8 @@ const projects = () => {
               <FeaturedProject
                 title="Animal Shelter"
                 img={project1}
-                summary="This is a MERN social media application develop to connect people."
+                summary="Built a Fullstack MERN React Responsive social media with React Redux, and 
+                Material UI in designing the Front End, and Express, NodeJS and MongoDB for the back end."
                 link="/"
                 github="/"
                 type="Featured Project"
@@ -160,8 +163,8 @@ const projects = () => {
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Animal Shelter"
-                img={project1}
+                title="Restaurant Menu - WPF"
+                img={project2}
                 link="/"
                 github="/"
                 type="Project"
@@ -169,8 +172,8 @@ const projects = () => {
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Animal Shelter"
-                img={project1}
+                title="TicTac-Toe - WPF"
+                img={project3}
                 link="/"
                 github="/"
                 type="Project"

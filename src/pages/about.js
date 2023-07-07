@@ -52,25 +52,28 @@ const about = () => {
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
                 About me
               </h2>
-              <p className="my-4 font-medium">
-                Hi, I am Venzon Ariola, a Software Engineering graduate with a
-                strong focus on problem-solving and a commitment to delivering
-                high-quality application. I am equiped in Web Application
-                Development, Object-Oriented Programming, Database Design,
-                Software QA and Testing, and IT Project Management.
+              <p className="my-4 font-small">
+                Hello, I'm Venzon Ariola, a recent Software Engineering graduate
+                with a strong focus on problem-solving and a drive to deliver
+                high-quality applications. Throughout my education, I have
+                gained extensive knowledge in Web Application Development,
+                Object-Oriented Programming, Database Design, Software QA and
+                Testing, and IT Project Management.
               </p>
-              <p className="my-4 font-medium">
-                During my academic journey, I successfully completed two notable
-                projects. I developed a user-friendly platform utilizing React,
-                Node.js, and MongoDB to match shelter pets with potential
-                adopters based on their preferences and pet characteristics.
+              <p className="my-4 font-small">
+                Although I may not have direct industry experience, I firmly
+                believe that my dedication, commitment, and passion will enable
+                me to thrive as a Software Developer. While I have enjoyed an
+                11-year career in the customer service industry, where I
+                excelled as a Team Manager for six years, my true passion lies
+                in software development. It is a field I am eager to pursue and
+                contribute to.
               </p>
-              <p className="my-4 font-medium">
-                My technical expertise, coupled with my customer service
-                background, positions me as a dedicated and qualified candidate
-                ready to excel as an entry-level Software Developer. I am eager
-                to contribute my skills and enthusiasm to projects that make a
-                positive impact within a forward-thinking organization.
+              <p className="my-4 font-small">
+                I am eager to apply my knowledge and skills to contribute to
+                projects that create a positive impact. With a strong foundation
+                in software engineering, I am confident that I will make
+                valuable contributions as a Software Developer.
               </p>
             </div>
 
@@ -95,7 +98,7 @@ const about = () => {
             <div className="col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3">
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumbers value={10} />+
+                  <AnimatedNumbers value={5} />+
                 </span>
                 <h2
                   className="text-xl font-medium capitalize text-dark/75 
@@ -106,7 +109,7 @@ const about = () => {
               </div>
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumbers value={15} />+
+                  <AnimatedNumbers value={10} />+
                 </span>
                 <h2
                   className="text-xl font-medium capitalize text-dark/75 

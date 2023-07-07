@@ -44,7 +44,7 @@ const Experience = () => {
   return (
     <div className="my-64">
       <h2 className="font-bold text-8xl mb-32 w-full text-center md:text-6xl sm:text-4xl md:mb-16">
-        Project Experience
+        Academic Experience
       </h2>
       <div ref={ref} className="w-[75%] mx-auto relative lg:w-[90%] md:w-full">
         <motion.div
@@ -57,19 +57,22 @@ const Experience = () => {
         xs:ml-2"
         >
           <Details
-            position="Scrum Master"
+            position="Scrum Master/Back-end Developer"
             company="Centennial College - Course Projects"
             companyLink="www.centennialcollege.ca"
             address="Scarborough, ON"
-            work="Worked on a team responsible for developing a web application for Animal Shelter Matching Application. Lead the team in 
-            identifying "
+            work="Worked on a team responsible for developing a web application for Animal Shelter Matching Application. 
+            Lead the team in requirements gathering, conducting user role modeling, low fidelity prototyping, user story workshop, 
+            iteration planning, and acceptance testng. Also help the team as a back-end developer to ensure back-end API endpoints are working
+            Utilized Github for agile project management tool.
+            "
           />
           <Details
-            position="Project Manager"
+            position="Project Manager/Back-end Developer"
             company="Centennial College - Course Projects"
             companyLink="www.centennialcollege.ca"
             address="Scarborough, ON"
-            work="Worked on a team in developing a single tournament bracketing web Application"
+            work="Lead the team in developing a single tournament brackering web application. Worked as a back-end developer in creating API endpoints."
           />
         </ul>
       </div>
