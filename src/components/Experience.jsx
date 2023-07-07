@@ -61,21 +61,15 @@ const Experience = () => {
             company="Centennial College - Course Projects"
             companyLink="www.centennialcollege.ca"
             address="Scarborough, ON"
-            work="Worked on a team responsible for developing a web application for Animal Shelter Matching Application"
+            work="Worked on a team responsible for developing a web application for Animal Shelter Matching Application. Lead the team in 
+            identifying "
           />
           <Details
-            position="Scrum Master"
+            position="Project Manager"
             company="Centennial College - Course Projects"
             companyLink="www.centennialcollege.ca"
             address="Scarborough, ON"
-            work="Worked on a team responsible for developing a web application for Animal Shelter Matching Application"
-          />
-          <Details
-            position="Scrum Master"
-            company="Centennial College - Course Projects"
-            companyLink="www.centennialcollege.ca"
-            address="Scarborough, ON"
-            work="Worked on a team responsible for developing a web application for Animal Shelter Matching Application"
+            work="Worked on a team in developing a single tournament bracketing web Application"
           />
         </ul>
       </div>
