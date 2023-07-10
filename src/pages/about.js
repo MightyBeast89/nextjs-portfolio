@@ -53,10 +53,10 @@ const about = () => {
                 About me
               </h2>
               <p className="my-4 font-small">
-                Hello, I'm Venzon Ariola, a recent Software Engineering graduate
-                with a strong focus on problem-solving and a drive to deliver
-                high-quality applications. Throughout my education, I have
-                gained extensive knowledge in Web Application Development,
+                Hello, I am Venzon Ariola, a recent Software Engineering
+                graduate with a strong focus on problem-solving and a drive to
+                deliver high-quality applications. Throughout my education, I
+                have gained extensive knowledge in Web Application Development,
                 Object-Oriented Programming, Database Design, Software QA and
                 Testing, and IT Project Management.
               </p>
