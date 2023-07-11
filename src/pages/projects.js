@@ -165,8 +165,8 @@ const projects = () => {
               <Project
                 title="Restaurant Menu - WPF"
                 img={project2}
-                link="/"
-                github="/"
+                link="https://github.com/VenzonAriola/restaurant-menu-wpf"
+                github="https://github.com/VenzonAriola/restaurant-menu-wpf"
                 type="Project"
               />
             </div>
@@ -174,8 +174,8 @@ const projects = () => {
               <Project
                 title="TicTac-Toe - WPF"
                 img={project3}
-                link="/"
-                github="/"
+                link="https://github.com/VenzonAriola/TictacToe-wpf"
+                github="https://github.com/VenzonAriola/TictacToe-wpf"
                 type="Project"
               />
             </div>
