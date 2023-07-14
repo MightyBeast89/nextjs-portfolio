@@ -157,7 +157,7 @@ const projects = () => {
                 summary="Built a Fullstack MERN React Responsive social media with React Redux, and 
                 Material UI in designing the Front End, and Express, NodeJS and MongoDB for the back end."
                 link="https://centennialista-mern-fullstack.vercel.app/"
-                github="/"
+                github="https://github.com/VenzonAriola/centennialista-mern-fullstack"
                 type="Featured Project"
               />
             </div>
