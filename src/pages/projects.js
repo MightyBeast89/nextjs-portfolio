@@ -179,34 +179,6 @@ const projects = () => {
                 type="Project"
               />
             </div>
-            <div className="col-span-12">
-              <FeaturedProject
-                title="Animal Shelter"
-                img={project1}
-                summary="This is a MERN social media application develop to connect people."
-                link="/"
-                github="/"
-                type="Featured Project"
-              />
-            </div>
-            <div className="col-span-6 sm:col-span-12">
-              <Project
-                title="Animal Shelter"
-                img={project1}
-                link="/"
-                github="/"
-                type="Project"
-              />
-            </div>
-            <div className="col-span-6 sm:col-span-12">
-              <Project
-                title="Animal Shelter"
-                img={project1}
-                link="/"
-                github="/"
-                type="Project"
-              />
-            </div>
           </div>
         </Layout>
       </main>
