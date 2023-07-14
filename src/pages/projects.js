@@ -152,11 +152,11 @@ const projects = () => {
           <div className="grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0">
             <div className="col-span-12">
               <FeaturedProject
-                title="Animal Shelter"
+                title="SocialMedia MERN"
                 img={project1}
                 summary="Built a Fullstack MERN React Responsive social media with React Redux, and 
                 Material UI in designing the Front End, and Express, NodeJS and MongoDB for the back end."
-                link="/"
+                link="https://centennialista-mern-fullstack.vercel.app/"
                 github="/"
                 type="Featured Project"
               />
