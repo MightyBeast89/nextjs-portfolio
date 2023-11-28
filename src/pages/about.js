@@ -61,13 +61,12 @@ const about = () => {
                 Testing, and IT Project Management.
               </p>
               <p className="my-4 font-small">
-                Although I may not have direct industry experience, I firmly
-                believe that my dedication, commitment, and passion will enable
-                me to thrive as a Software Developer. While I have enjoyed an
-                11-year career in the customer service industry, where I
-                excelled as a Team Manager for six years, my true passion lies
-                in software development. It is a field I am eager to pursue and
-                contribute to.
+                I firmly believe that my dedication, commitment, and passion
+                will enable me to thrive as a Software Developer. While I have
+                enjoyed an 11-year career in the customer service industry,
+                where I excelled as a Team Manager for six years, my true
+                passion lies in software development. It is a field I am eager
+                to pursue and contribute to.
               </p>
               <p className="my-4 font-small">
                 I am eager to apply my knowledge and skills to contribute to
@@ -116,17 +115,6 @@ const about = () => {
                 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm"
                 >
                   Projects Completed
-                </h2>
-              </div>
-              <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumbers value={1} />+
-                </span>
-                <h2
-                  className="text-xl font-medium capitalize text-dark/75 
-                dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm"
-                >
-                  years of experience
                 </h2>
               </div>
             </div>
