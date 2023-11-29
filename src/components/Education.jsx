@@ -54,7 +54,7 @@ const Education = () => {
             Object-Oriented Programming, Database Design, Software QA and Testing, IT Project Management."
           />
           <Details
-            type="Diploma in Compputer System Design and Programming"
+            type="Diploma in Computer System Design and Programming"
             time="2006 -2008"
             place="AMA Computer Learning Institute "
             info="Relevant coursework: Visual Basic, C++, Computer Networking 1, Muti-Media Design, Computer Maintenance, Software Desiign Principles"
